@@ -104,3 +104,9 @@ img {
 .fa-linkedin-in:hover {
     color: blue;
 }
+
+@media (max-width: 991px) {
+    img {
+        width: 100%;
+    }
+}
